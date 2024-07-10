@@ -1,0 +1,3 @@
+5cc6d595eb96b104b8654a5efd680d07  ancatus-spi-flash-content.7z
+3b50c3c279bbc5333e86180d870d78f8  MTD_2 BOX_ANCATUS.7z
+b0ef625c8c99028d6c31758b145f65c9  snander.7z
